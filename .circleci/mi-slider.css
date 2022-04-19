@@ -50,14 +50,14 @@
 }
 
 .nivo-directionNav .nivo-prevNav{
-	background-image: url(../img/icons/circle-left.png);
+	background-image: url(https://i.ibb.co/yVHNPmc/circle-left.png);
 	background-size: cover;
 	text-indent: -9999px;
 	left: 6px;
 }
 
 .nivo-directionNav .nivo-nextNav{
-	background-image: url(../img/icons/circle-right.png);
+	background-image: url(https://i.ibb.co/0qCKxms/circle-right.png);
 	background-size: cover;
 	text-indent: -9999px;
 	right: 6px;
